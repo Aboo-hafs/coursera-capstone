@@ -18,9 +18,7 @@ const Hero = () => {
           <h1 className="title">Little Lemon</h1>
           <h2 className="subtitle">Chicago</h2>
           <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.<br/>
-      Vestibulum lorem sapien, iaculis nec diam quis, eleifend <br/>
-       iaculis lorem. Aliquam orci ante, imperdiet vitae nisi efficitur <br/> efficitur ornare lacus. Vivamus augue erat, ornare id congue at <br/> egestas a nisi. Vestibulum ante
+          Located in the vibrant center of Chicago, Little Lemon is where contemporary style blends seamlessly with warm, familiar sentiments. Our eclectic and crafted menu, showcasing delightful bruschettas, juicy burgers, and revitalizing Greek salads, exemplifies our conviction that cuisine is a form of art.
           </p>
           <Button title={"Reserve a table"} onClick={onClickReserve} />
         </div>

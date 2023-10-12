@@ -7,28 +7,28 @@ const testimonials = [
     id: 1,
     author: "charles edward",
     description:
-      "Little Lemon's Bruschetta is a symphony of flavors; perfectly crispy bread coupled with the freshest tomatoes.",
+      "Little Lemon's Bruschetta is a harmonious blend of tastes, where impeccably crunchy bread mingles with the ripest of tomatoes.",
     image:
       "https://images.pexels.com/photos/3763188/pexels-photo-3763188.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3763188.jpg&fm=jpg",
-    rating: 5,
+    rating: 4,
   },
   {
     id: 2,
     author: "emmanuel john",
     description:
-      "The burger at Little Lemon was a taste revelation with its juicy, perfectly cooked meat and harmonious ingredient pairing.",
+      "The burger at Little Lemon was a culinary revelation, featuring succulent, expertly prepared meat and a harmonious combination of ingredients.",
     image:
       "https://www.irreverentgent.com/wp-content/uploads/2018/03/Awesome-Profile-Pictures-for-Guys-look-away2.jpg",
-    rating: 5,
+    rating: 4,
   },
   {
     id: 3,
     author: "stephen morgan",
     description:
-      "The Greek Salad at Little Lemon was delightfully fresh and flavorful, with a high-quality dressing. ",
+      "Little Lemon's Greek Salad was a delightful burst of freshness and flavor, enhanced by a top-notch dressing. ",
     image:
       "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
-    rating: 4,
+    rating: 5,
   },
 ];
 
